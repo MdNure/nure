@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "701921143926",
+    "project_id": "club-b2380",
+    "storage_bucket": "club-b2380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701921143926:android:b9d7f24d14fd892e948357",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY0EBnGB34LdE_3JElLM8v0_mpQ-TFjtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
